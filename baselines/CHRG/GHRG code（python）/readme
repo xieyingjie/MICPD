@@ -1,0 +1,47 @@
+Network Change-point Detection
+====================
+
+Requirements
+---------------------
+dendropy    :   http://pythonhosted.org/DendroPy/
+numpy   :   http://www.numpy.org/
+scipy   :   http://scipy.org/
+
+Before running the code it is recommended that you compile the GHRG code:
+>cd fitHRG_GPL_Bayes/
+>make
+>cd ../consensusHRG_GPL_Bayes/
+>make
+
+
+Running the code
+---------------------------
+This code can be run from the commandline using:
+
+>python runNetworkChangePoint.py [-p "path/to/input/files/"] nodenamesfile windowsize networkfilesequence
+
+positional arguments:
+  nodenamesfile         Input node names file e.g. names.lut
+  windowsize            Length of sliding window
+  networkfilesequence   Input sequence of network files: e.g. "network1.pairs network2.pairs network3.pairs"
+
+optional arguments:
+  -h, --help            show this help message and exit
+  -p PATH, --path PATH  Path to files (if not in current directory)
+
+Inputs
+-----------
+the names file is a .lut file of the format:
+
+virtual	real
+0	alice
+1	bob
+2	chris
+
+the network files are .pairs files in edge list format:
+
+alice	bob
+alice	chris
+alice	dave
+
+Note:  the nodes that appear in the .pairs file must appear in the .lut "real" column.  The "virtual" column must be a list of integers starting from 0.

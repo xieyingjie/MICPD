@@ -1,0 +1,411 @@
+data D:/code/code/CICPD/data/toynetwork0406.mtx
+nodeImportance PageRank
+flag1,flag2 True True
+kernelFun js
+groundTruth 0
+ground:  {1, 3, 4, 6, 7, 9, 10, 12}
+sliding length:  0
+step 1
+Step 2
+there are totally 14 snapshots,each snapshot has 9 nodes
+connected nodes:  14
+assignments is  [3 3 3 3 1 2 3 4 0 3 3 3 5 0]
+{4, 5, 6, 7, 8, 9, 12, 13}
+{'K': 6, 'alpha': 0.01}  realAbnormal  8 thoughtAbnormal 8 tr_abnormal 5 so accuracy: 0.625000  and  recall : 0.625000 and fpr: 0.500000 and fvalue : 0.625000  Attention Attention Attention
+connected nodes:  14
+assignments is  [3 3 3 3 1 2 3 4 0 3 3 3 5 0]
+{4, 5, 6, 7, 8, 9, 12, 13}
+{'K': 6, 'alpha': 0.02}  realAbnormal  8 thoughtAbnormal 8 tr_abnormal 5 so accuracy: 0.625000  and  recall : 0.625000 and fpr: 0.500000 and fvalue : 0.625000  Attention Attention Attention
+connected nodes:  14
+assignments is  [3 3 3 3 1 2 3 4 0 3 3 3 5 0]
+{4, 5, 6, 7, 8, 9, 12, 13}
+{'K': 6, 'alpha': 0.03}  realAbnormal  8 thoughtAbnormal 8 tr_abnormal 5 so accuracy: 0.625000  and  recall : 0.625000 and fpr: 0.500000 and fvalue : 0.625000  Attention Attention Attention
+connected nodes:  14
+assignments is  [3 3 3 3 1 2 3 4 0 3 3 3 5 0]
+{4, 5, 6, 7, 8, 9, 12, 13}
+{'K': 6, 'alpha': 0.04}  realAbnormal  8 thoughtAbnormal 8 tr_abnormal 5 so accuracy: 0.625000  and  recall : 0.625000 and fpr: 0.500000 and fvalue : 0.625000  Attention Attention Attention
+connected nodes:  14
+assignments is  [3 3 3 3 1 2 3 4 0 3 3 3 5 0]
+{4, 5, 6, 7, 8, 9, 12, 13}
+{'K': 6, 'alpha': 0.05}  realAbnormal  8 thoughtAbnormal 8 tr_abnormal 5 so accuracy: 0.625000  and  recall : 0.625000 and fpr: 0.500000 and fvalue : 0.625000  Attention Attention Attention
+connected nodes:  14
+assignments is  [1 0 0 0 1 0 0 0 1 0 0 0 0 0]
+{1, 4, 5, 8, 9}
+{'K': 2, 'alpha': 0.06}  realAbnormal  8 thoughtAbnormal 5 tr_abnormal 3 so accuracy: 0.600000  and  recall : 0.375000 and fpr: 0.333333 and fvalue : 0.461538  None
+connected nodes:  14
+assignments is  [1 0 0 0 1 0 0 0 1 0 0 0 0 0]
+{1, 4, 5, 8, 9}
+{'K': 2, 'alpha': 0.07}  realAbnormal  8 thoughtAbnormal 5 tr_abnormal 3 so accuracy: 0.600000  and  recall : 0.375000 and fpr: 0.333333 and fvalue : 0.461538  None
+connected nodes:  14
+assignments is  [3 3 3 3 1 2 3 4 0 3 3 3 5 0]
+{4, 5, 6, 7, 8, 9, 12, 13}
+{'K': 6, 'alpha': 0.08}  realAbnormal  8 thoughtAbnormal 8 tr_abnormal 5 so accuracy: 0.625000  and  recall : 0.625000 and fpr: 0.500000 and fvalue : 0.625000  Attention Attention Attention
+connected nodes:  14
+assignments is  [3 3 3 3 1 2 3 4 0 3 3 3 5 0]
+{4, 5, 6, 7, 8, 9, 12, 13}
+{'K': 6, 'alpha': 0.09}  realAbnormal  8 thoughtAbnormal 8 tr_abnormal 5 so accuracy: 0.625000  and  recall : 0.625000 and fpr: 0.500000 and fvalue : 0.625000  Attention Attention Attention
+connected nodes:  14
+assignments is  [3 3 3 3 1 2 3 4 0 3 3 3 5 0]
+{4, 5, 6, 7, 8, 9, 12, 13}
+{'K': 6, 'alpha': 0.1}  realAbnormal  8 thoughtAbnormal 8 tr_abnormal 5 so accuracy: 0.625000  and  recall : 0.625000 and fpr: 0.500000 and fvalue : 0.625000  Attention Attention Attention
+connected nodes:  14
+assignments is  [3 3 3 3 1 2 3 4 0 3 3 3 5 0]
+{4, 5, 6, 7, 8, 9, 12, 13}
+{'K': 6, 'alpha': 0.11}  realAbnormal  8 thoughtAbnormal 8 tr_abnormal 5 so accuracy: 0.625000  and  recall : 0.625000 and fpr: 0.500000 and fvalue : 0.625000  Attention Attention Attention
+connected nodes:  14
+assignments is  [3 3 3 3 1 2 3 4 0 3 3 3 5 0]
+{4, 5, 6, 7, 8, 9, 12, 13}
+{'K': 6, 'alpha': 0.12}  realAbnormal  8 thoughtAbnormal 8 tr_abnormal 5 so accuracy: 0.625000  and  recall : 0.625000 and fpr: 0.500000 and fvalue : 0.625000  Attention Attention Attention
+connected nodes:  14
+assignments is  [3 3 3 3 1 2 3 4 0 3 3 3 5 0]
+{4, 5, 6, 7, 8, 9, 12, 13}
+{'K': 6, 'alpha': 0.13}  realAbnormal  8 thoughtAbnormal 8 tr_abnormal 5 so accuracy: 0.625000  and  recall : 0.625000 and fpr: 0.500000 and fvalue : 0.625000  Attention Attention Attention
+connected nodes:  14
+assignments is  [3 3 3 3 1 2 3 4 0 3 3 3 5 0]
+{4, 5, 6, 7, 8, 9, 12, 13}
+{'K': 6, 'alpha': 0.14}  realAbnormal  8 thoughtAbnormal 8 tr_abnormal 5 so accuracy: 0.625000  and  recall : 0.625000 and fpr: 0.500000 and fvalue : 0.625000  Attention Attention Attention
+connected nodes:  14
+assignments is  [3 3 3 3 1 2 3 4 0 3 3 3 5 0]
+{4, 5, 6, 7, 8, 9, 12, 13}
+{'K': 6, 'alpha': 0.15}  realAbnormal  8 thoughtAbnormal 8 tr_abnormal 5 so accuracy: 0.625000  and  recall : 0.625000 and fpr: 0.500000 and fvalue : 0.625000  Attention Attention Attention
+connected nodes:  14
+assignments is  [3 3 3 3 1 2 3 4 0 3 3 3 5 0]
+{4, 5, 6, 7, 8, 9, 12, 13}
+{'K': 6, 'alpha': 0.16}  realAbnormal  8 thoughtAbnormal 8 tr_abnormal 5 so accuracy: 0.625000  and  recall : 0.625000 and fpr: 0.500000 and fvalue : 0.625000  Attention Attention Attention
+connected nodes:  14
+assignments is  [3 3 3 3 1 2 3 4 0 3 3 3 5 0]
+{4, 5, 6, 7, 8, 9, 12, 13}
+{'K': 6, 'alpha': 0.17}  realAbnormal  8 thoughtAbnormal 8 tr_abnormal 5 so accuracy: 0.625000  and  recall : 0.625000 and fpr: 0.500000 and fvalue : 0.625000  Attention Attention Attention
+connected nodes:  14
+assignments is  [3 3 3 3 1 2 3 4 0 3 3 3 5 0]
+{4, 5, 6, 7, 8, 9, 12, 13}
+{'K': 6, 'alpha': 0.18}  realAbnormal  8 thoughtAbnormal 8 tr_abnormal 5 so accuracy: 0.625000  and  recall : 0.625000 and fpr: 0.500000 and fvalue : 0.625000  Attention Attention Attention
+connected nodes:  14
+assignments is  [3 3 3 3 1 2 3 4 0 3 3 3 5 0]
+{4, 5, 6, 7, 8, 9, 12, 13}
+{'K': 6, 'alpha': 0.19}  realAbnormal  8 thoughtAbnormal 8 tr_abnormal 5 so accuracy: 0.625000  and  recall : 0.625000 and fpr: 0.500000 and fvalue : 0.625000  Attention Attention Attention
+connected nodes:  14
+assignments is  [3 3 3 3 1 2 3 4 0 3 3 3 5 0]
+{4, 5, 6, 7, 8, 9, 12, 13}
+{'K': 6, 'alpha': 0.2}  realAbnormal  8 thoughtAbnormal 8 tr_abnormal 5 so accuracy: 0.625000  and  recall : 0.625000 and fpr: 0.500000 and fvalue : 0.625000  Attention Attention Attention
+connected nodes:  14
+assignments is  [3 3 3 3 1 2 3 4 0 3 3 3 5 0]
+{4, 5, 6, 7, 8, 9, 12, 13}
+{'K': 6, 'alpha': 0.21}  realAbnormal  8 thoughtAbnormal 8 tr_abnormal 5 so accuracy: 0.625000  and  recall : 0.625000 and fpr: 0.500000 and fvalue : 0.625000  Attention Attention Attention
+connected nodes:  14
+assignments is  [3 3 3 3 1 2 3 4 0 3 3 3 5 0]
+{4, 5, 6, 7, 8, 9, 12, 13}
+{'K': 6, 'alpha': 0.22}  realAbnormal  8 thoughtAbnormal 8 tr_abnormal 5 so accuracy: 0.625000  and  recall : 0.625000 and fpr: 0.500000 and fvalue : 0.625000  Attention Attention Attention
+connected nodes:  14
+assignments is  [3 3 3 3 1 2 3 4 0 3 3 3 5 0]
+{4, 5, 6, 7, 8, 9, 12, 13}
+{'K': 6, 'alpha': 0.23}  realAbnormal  8 thoughtAbnormal 8 tr_abnormal 5 so accuracy: 0.625000  and  recall : 0.625000 and fpr: 0.500000 and fvalue : 0.625000  Attention Attention Attention
+connected nodes:  14
+assignments is  [3 3 3 3 1 2 3 4 0 3 3 3 5 0]
+{4, 5, 6, 7, 8, 9, 12, 13}
+{'K': 6, 'alpha': 0.24}  realAbnormal  8 thoughtAbnormal 8 tr_abnormal 5 so accuracy: 0.625000  and  recall : 0.625000 and fpr: 0.500000 and fvalue : 0.625000  Attention Attention Attention
+connected nodes:  14
+assignments is  [3 3 3 3 1 2 3 4 0 3 3 3 5 0]
+{4, 5, 6, 7, 8, 9, 12, 13}
+{'K': 6, 'alpha': 0.25}  realAbnormal  8 thoughtAbnormal 8 tr_abnormal 5 so accuracy: 0.625000  and  recall : 0.625000 and fpr: 0.500000 and fvalue : 0.625000  Attention Attention Attention
+connected nodes:  14
+assignments is  [3 3 3 3 1 2 3 4 0 3 3 3 5 0]
+{4, 5, 6, 7, 8, 9, 12, 13}
+{'K': 6, 'alpha': 0.26}  realAbnormal  8 thoughtAbnormal 8 tr_abnormal 5 so accuracy: 0.625000  and  recall : 0.625000 and fpr: 0.500000 and fvalue : 0.625000  Attention Attention Attention
+connected nodes:  14
+assignments is  [3 3 3 3 1 2 3 4 0 3 3 3 5 0]
+{4, 5, 6, 7, 8, 9, 12, 13}
+{'K': 6, 'alpha': 0.27}  realAbnormal  8 thoughtAbnormal 8 tr_abnormal 5 so accuracy: 0.625000  and  recall : 0.625000 and fpr: 0.500000 and fvalue : 0.625000  Attention Attention Attention
+connected nodes:  14
+assignments is  [3 3 3 3 1 2 3 4 0 3 3 3 5 0]
+{4, 5, 6, 7, 8, 9, 12, 13}
+{'K': 6, 'alpha': 0.28}  realAbnormal  8 thoughtAbnormal 8 tr_abnormal 5 so accuracy: 0.625000  and  recall : 0.625000 and fpr: 0.500000 and fvalue : 0.625000  Attention Attention Attention
+connected nodes:  14
+assignments is  [3 3 3 3 1 2 3 4 0 3 3 3 5 0]
+{4, 5, 6, 7, 8, 9, 12, 13}
+{'K': 6, 'alpha': 0.29}  realAbnormal  8 thoughtAbnormal 8 tr_abnormal 5 so accuracy: 0.625000  and  recall : 0.625000 and fpr: 0.500000 and fvalue : 0.625000  Attention Attention Attention
+connected nodes:  14
+assignments is  [1 0 0 0 1 0 0 0 1 0 0 0 0 0]
+{1, 4, 5, 8, 9}
+{'K': 2, 'alpha': 0.3}  realAbnormal  8 thoughtAbnormal 5 tr_abnormal 3 so accuracy: 0.600000  and  recall : 0.375000 and fpr: 0.333333 and fvalue : 0.461538  None
+connected nodes:  14
+assignments is  [3 3 3 3 1 2 3 4 0 3 3 3 5 0]
+{4, 5, 6, 7, 8, 9, 12, 13}
+{'K': 6, 'alpha': 0.31}  realAbnormal  8 thoughtAbnormal 8 tr_abnormal 5 so accuracy: 0.625000  and  recall : 0.625000 and fpr: 0.500000 and fvalue : 0.625000  Attention Attention Attention
+connected nodes:  14
+assignments is  [3 3 3 3 1 2 3 4 0 3 3 3 5 0]
+{4, 5, 6, 7, 8, 9, 12, 13}
+{'K': 6, 'alpha': 0.32}  realAbnormal  8 thoughtAbnormal 8 tr_abnormal 5 so accuracy: 0.625000  and  recall : 0.625000 and fpr: 0.500000 and fvalue : 0.625000  Attention Attention Attention
+connected nodes:  14
+assignments is  [3 3 3 3 1 2 3 4 0 3 3 3 5 0]
+{4, 5, 6, 7, 8, 9, 12, 13}
+{'K': 6, 'alpha': 0.33}  realAbnormal  8 thoughtAbnormal 8 tr_abnormal 5 so accuracy: 0.625000  and  recall : 0.625000 and fpr: 0.500000 and fvalue : 0.625000  Attention Attention Attention
+connected nodes:  14
+assignments is  [3 3 3 3 1 2 3 4 0 3 3 3 5 0]
+{4, 5, 6, 7, 8, 9, 12, 13}
+{'K': 6, 'alpha': 0.34}  realAbnormal  8 thoughtAbnormal 8 tr_abnormal 5 so accuracy: 0.625000  and  recall : 0.625000 and fpr: 0.500000 and fvalue : 0.625000  Attention Attention Attention
+connected nodes:  14
+assignments is  [3 3 3 3 1 2 3 4 0 3 3 3 5 0]
+{4, 5, 6, 7, 8, 9, 12, 13}
+{'K': 6, 'alpha': 0.35}  realAbnormal  8 thoughtAbnormal 8 tr_abnormal 5 so accuracy: 0.625000  and  recall : 0.625000 and fpr: 0.500000 and fvalue : 0.625000  Attention Attention Attention
+connected nodes:  14
+assignments is  [3 3 3 3 1 2 3 4 0 3 3 3 5 0]
+{4, 5, 6, 7, 8, 9, 12, 13}
+{'K': 6, 'alpha': 0.36}  realAbnormal  8 thoughtAbnormal 8 tr_abnormal 5 so accuracy: 0.625000  and  recall : 0.625000 and fpr: 0.500000 and fvalue : 0.625000  Attention Attention Attention
+connected nodes:  14
+assignments is  [3 3 3 3 1 2 3 4 0 3 3 3 5 0]
+{4, 5, 6, 7, 8, 9, 12, 13}
+{'K': 6, 'alpha': 0.37}  realAbnormal  8 thoughtAbnormal 8 tr_abnormal 5 so accuracy: 0.625000  and  recall : 0.625000 and fpr: 0.500000 and fvalue : 0.625000  Attention Attention Attention
+connected nodes:  14
+assignments is  [3 3 3 3 1 2 3 4 0 3 3 3 5 0]
+{4, 5, 6, 7, 8, 9, 12, 13}
+{'K': 6, 'alpha': 0.38}  realAbnormal  8 thoughtAbnormal 8 tr_abnormal 5 so accuracy: 0.625000  and  recall : 0.625000 and fpr: 0.500000 and fvalue : 0.625000  Attention Attention Attention
+connected nodes:  14
+assignments is  [3 3 3 3 1 2 3 4 0 3 3 3 5 0]
+{4, 5, 6, 7, 8, 9, 12, 13}
+{'K': 6, 'alpha': 0.39}  realAbnormal  8 thoughtAbnormal 8 tr_abnormal 5 so accuracy: 0.625000  and  recall : 0.625000 and fpr: 0.500000 and fvalue : 0.625000  Attention Attention Attention
+connected nodes:  14
+assignments is  [3 3 3 3 1 2 3 4 0 3 3 3 5 0]
+{4, 5, 6, 7, 8, 9, 12, 13}
+{'K': 6, 'alpha': 0.4}  realAbnormal  8 thoughtAbnormal 8 tr_abnormal 5 so accuracy: 0.625000  and  recall : 0.625000 and fpr: 0.500000 and fvalue : 0.625000  Attention Attention Attention
+connected nodes:  14
+assignments is  [3 3 3 3 1 2 3 4 0 3 3 3 5 0]
+{4, 5, 6, 7, 8, 9, 12, 13}
+{'K': 6, 'alpha': 0.41}  realAbnormal  8 thoughtAbnormal 8 tr_abnormal 5 so accuracy: 0.625000  and  recall : 0.625000 and fpr: 0.500000 and fvalue : 0.625000  Attention Attention Attention
+connected nodes:  14
+assignments is  [3 3 3 3 1 2 3 4 0 3 3 3 5 0]
+{4, 5, 6, 7, 8, 9, 12, 13}
+{'K': 6, 'alpha': 0.42}  realAbnormal  8 thoughtAbnormal 8 tr_abnormal 5 so accuracy: 0.625000  and  recall : 0.625000 and fpr: 0.500000 and fvalue : 0.625000  Attention Attention Attention
+connected nodes:  14
+assignments is  [3 3 3 3 1 2 3 4 0 3 3 3 5 0]
+{4, 5, 6, 7, 8, 9, 12, 13}
+{'K': 6, 'alpha': 0.43}  realAbnormal  8 thoughtAbnormal 8 tr_abnormal 5 so accuracy: 0.625000  and  recall : 0.625000 and fpr: 0.500000 and fvalue : 0.625000  Attention Attention Attention
+connected nodes:  14
+assignments is  [3 3 3 3 1 2 3 4 0 3 3 3 5 0]
+{4, 5, 6, 7, 8, 9, 12, 13}
+{'K': 6, 'alpha': 0.44}  realAbnormal  8 thoughtAbnormal 8 tr_abnormal 5 so accuracy: 0.625000  and  recall : 0.625000 and fpr: 0.500000 and fvalue : 0.625000  Attention Attention Attention
+connected nodes:  14
+assignments is  [3 3 3 3 1 2 3 4 0 3 3 3 5 0]
+{4, 5, 6, 7, 8, 9, 12, 13}
+{'K': 6, 'alpha': 0.45}  realAbnormal  8 thoughtAbnormal 8 tr_abnormal 5 so accuracy: 0.625000  and  recall : 0.625000 and fpr: 0.500000 and fvalue : 0.625000  Attention Attention Attention
+connected nodes:  14
+assignments is  [3 3 3 3 1 2 3 4 0 3 3 3 5 0]
+{4, 5, 6, 7, 8, 9, 12, 13}
+{'K': 6, 'alpha': 0.46}  realAbnormal  8 thoughtAbnormal 8 tr_abnormal 5 so accuracy: 0.625000  and  recall : 0.625000 and fpr: 0.500000 and fvalue : 0.625000  Attention Attention Attention
+connected nodes:  14
+assignments is  [3 3 3 3 1 2 3 4 0 3 3 3 5 0]
+{4, 5, 6, 7, 8, 9, 12, 13}
+{'K': 6, 'alpha': 0.47}  realAbnormal  8 thoughtAbnormal 8 tr_abnormal 5 so accuracy: 0.625000  and  recall : 0.625000 and fpr: 0.500000 and fvalue : 0.625000  Attention Attention Attention
+connected nodes:  14
+assignments is  [3 3 3 3 1 2 3 4 0 3 3 3 5 0]
+{4, 5, 6, 7, 8, 9, 12, 13}
+{'K': 6, 'alpha': 0.48}  realAbnormal  8 thoughtAbnormal 8 tr_abnormal 5 so accuracy: 0.625000  and  recall : 0.625000 and fpr: 0.500000 and fvalue : 0.625000  Attention Attention Attention
+connected nodes:  14
+assignments is  [3 3 3 3 1 2 3 4 0 3 3 3 5 0]
+{4, 5, 6, 7, 8, 9, 12, 13}
+{'K': 6, 'alpha': 0.49}  realAbnormal  8 thoughtAbnormal 8 tr_abnormal 5 so accuracy: 0.625000  and  recall : 0.625000 and fpr: 0.500000 and fvalue : 0.625000  Attention Attention Attention
+connected nodes:  14
+assignments is  [3 3 3 3 1 2 3 4 0 3 3 3 5 0]
+{4, 5, 6, 7, 8, 9, 12, 13}
+{'K': 6, 'alpha': 0.5}  realAbnormal  8 thoughtAbnormal 8 tr_abnormal 5 so accuracy: 0.625000  and  recall : 0.625000 and fpr: 0.500000 and fvalue : 0.625000  Attention Attention Attention
+connected nodes:  14
+assignments is  [3 3 3 3 1 2 3 4 0 3 3 3 5 0]
+{4, 5, 6, 7, 8, 9, 12, 13}
+{'K': 6, 'alpha': 0.51}  realAbnormal  8 thoughtAbnormal 8 tr_abnormal 5 so accuracy: 0.625000  and  recall : 0.625000 and fpr: 0.500000 and fvalue : 0.625000  Attention Attention Attention
+connected nodes:  14
+assignments is  [3 3 3 3 1 2 3 4 0 3 3 3 5 0]
+{4, 5, 6, 7, 8, 9, 12, 13}
+{'K': 6, 'alpha': 0.52}  realAbnormal  8 thoughtAbnormal 8 tr_abnormal 5 so accuracy: 0.625000  and  recall : 0.625000 and fpr: 0.500000 and fvalue : 0.625000  Attention Attention Attention
+connected nodes:  14
+assignments is  [3 3 3 3 1 2 3 4 0 3 3 3 5 0]
+{4, 5, 6, 7, 8, 9, 12, 13}
+{'K': 6, 'alpha': 0.53}  realAbnormal  8 thoughtAbnormal 8 tr_abnormal 5 so accuracy: 0.625000  and  recall : 0.625000 and fpr: 0.500000 and fvalue : 0.625000  Attention Attention Attention
+connected nodes:  14
+assignments is  [3 3 3 3 1 2 3 4 0 3 3 3 5 0]
+{4, 5, 6, 7, 8, 9, 12, 13}
+{'K': 6, 'alpha': 0.54}  realAbnormal  8 thoughtAbnormal 8 tr_abnormal 5 so accuracy: 0.625000  and  recall : 0.625000 and fpr: 0.500000 and fvalue : 0.625000  Attention Attention Attention
+connected nodes:  14
+assignments is  [3 3 3 3 1 2 3 4 0 3 3 3 5 0]
+{4, 5, 6, 7, 8, 9, 12, 13}
+{'K': 6, 'alpha': 0.55}  realAbnormal  8 thoughtAbnormal 8 tr_abnormal 5 so accuracy: 0.625000  and  recall : 0.625000 and fpr: 0.500000 and fvalue : 0.625000  Attention Attention Attention
+connected nodes:  14
+assignments is  [1 0 0 0 1 0 0 0 1 0 0 0 0 0]
+{1, 4, 5, 8, 9}
+{'K': 2, 'alpha': 0.56}  realAbnormal  8 thoughtAbnormal 5 tr_abnormal 3 so accuracy: 0.600000  and  recall : 0.375000 and fpr: 0.333333 and fvalue : 0.461538  None
+connected nodes:  14
+assignments is  [3 3 3 3 1 2 3 4 0 3 3 3 5 0]
+{4, 5, 6, 7, 8, 9, 12, 13}
+{'K': 6, 'alpha': 0.57}  realAbnormal  8 thoughtAbnormal 8 tr_abnormal 5 so accuracy: 0.625000  and  recall : 0.625000 and fpr: 0.500000 and fvalue : 0.625000  Attention Attention Attention
+connected nodes:  14
+assignments is  [1 0 0 0 1 0 0 0 1 0 0 0 0 0]
+{1, 4, 5, 8, 9}
+{'K': 2, 'alpha': 0.58}  realAbnormal  8 thoughtAbnormal 5 tr_abnormal 3 so accuracy: 0.600000  and  recall : 0.375000 and fpr: 0.333333 and fvalue : 0.461538  None
+connected nodes:  14
+assignments is  [3 3 3 3 1 2 3 4 0 3 3 3 5 0]
+{4, 5, 6, 7, 8, 9, 12, 13}
+{'K': 6, 'alpha': 0.59}  realAbnormal  8 thoughtAbnormal 8 tr_abnormal 5 so accuracy: 0.625000  and  recall : 0.625000 and fpr: 0.500000 and fvalue : 0.625000  Attention Attention Attention
+connected nodes:  14
+assignments is  [3 3 3 3 1 2 3 4 0 3 3 3 5 0]
+{4, 5, 6, 7, 8, 9, 12, 13}
+{'K': 6, 'alpha': 0.6}  realAbnormal  8 thoughtAbnormal 8 tr_abnormal 5 so accuracy: 0.625000  and  recall : 0.625000 and fpr: 0.500000 and fvalue : 0.625000  Attention Attention Attention
+connected nodes:  14
+assignments is  [3 3 3 3 1 2 3 4 0 3 3 3 5 0]
+{4, 5, 6, 7, 8, 9, 12, 13}
+{'K': 6, 'alpha': 0.61}  realAbnormal  8 thoughtAbnormal 8 tr_abnormal 5 so accuracy: 0.625000  and  recall : 0.625000 and fpr: 0.500000 and fvalue : 0.625000  Attention Attention Attention
+connected nodes:  14
+assignments is  [3 3 3 3 1 2 3 4 0 3 3 3 5 0]
+{4, 5, 6, 7, 8, 9, 12, 13}
+{'K': 6, 'alpha': 0.62}  realAbnormal  8 thoughtAbnormal 8 tr_abnormal 5 so accuracy: 0.625000  and  recall : 0.625000 and fpr: 0.500000 and fvalue : 0.625000  Attention Attention Attention
+connected nodes:  14
+assignments is  [3 3 3 3 1 2 3 4 0 3 3 3 5 0]
+{4, 5, 6, 7, 8, 9, 12, 13}
+{'K': 6, 'alpha': 0.63}  realAbnormal  8 thoughtAbnormal 8 tr_abnormal 5 so accuracy: 0.625000  and  recall : 0.625000 and fpr: 0.500000 and fvalue : 0.625000  Attention Attention Attention
+connected nodes:  14
+assignments is  [3 3 3 3 1 2 3 4 0 3 3 3 5 0]
+{4, 5, 6, 7, 8, 9, 12, 13}
+{'K': 6, 'alpha': 0.64}  realAbnormal  8 thoughtAbnormal 8 tr_abnormal 5 so accuracy: 0.625000  and  recall : 0.625000 and fpr: 0.500000 and fvalue : 0.625000  Attention Attention Attention
+connected nodes:  14
+assignments is  [3 3 3 3 1 2 3 4 0 3 3 3 5 0]
+{4, 5, 6, 7, 8, 9, 12, 13}
+{'K': 6, 'alpha': 0.65}  realAbnormal  8 thoughtAbnormal 8 tr_abnormal 5 so accuracy: 0.625000  and  recall : 0.625000 and fpr: 0.500000 and fvalue : 0.625000  Attention Attention Attention
+connected nodes:  14
+assignments is  [3 3 3 3 1 2 3 4 0 3 3 3 5 0]
+{4, 5, 6, 7, 8, 9, 12, 13}
+{'K': 6, 'alpha': 0.66}  realAbnormal  8 thoughtAbnormal 8 tr_abnormal 5 so accuracy: 0.625000  and  recall : 0.625000 and fpr: 0.500000 and fvalue : 0.625000  Attention Attention Attention
+connected nodes:  14
+assignments is  [3 3 3 3 1 2 3 4 0 3 3 3 5 0]
+{4, 5, 6, 7, 8, 9, 12, 13}
+{'K': 6, 'alpha': 0.67}  realAbnormal  8 thoughtAbnormal 8 tr_abnormal 5 so accuracy: 0.625000  and  recall : 0.625000 and fpr: 0.500000 and fvalue : 0.625000  Attention Attention Attention
+connected nodes:  14
+assignments is  [3 3 3 3 1 2 3 4 0 3 3 3 5 0]
+{4, 5, 6, 7, 8, 9, 12, 13}
+{'K': 6, 'alpha': 0.68}  realAbnormal  8 thoughtAbnormal 8 tr_abnormal 5 so accuracy: 0.625000  and  recall : 0.625000 and fpr: 0.500000 and fvalue : 0.625000  Attention Attention Attention
+connected nodes:  14
+assignments is  [3 3 3 3 1 2 3 4 0 3 3 3 5 0]
+{4, 5, 6, 7, 8, 9, 12, 13}
+{'K': 6, 'alpha': 0.69}  realAbnormal  8 thoughtAbnormal 8 tr_abnormal 5 so accuracy: 0.625000  and  recall : 0.625000 and fpr: 0.500000 and fvalue : 0.625000  Attention Attention Attention
+connected nodes:  14
+assignments is  [3 3 3 3 1 2 3 4 0 3 3 3 5 0]
+{4, 5, 6, 7, 8, 9, 12, 13}
+{'K': 6, 'alpha': 0.7}  realAbnormal  8 thoughtAbnormal 8 tr_abnormal 5 so accuracy: 0.625000  and  recall : 0.625000 and fpr: 0.500000 and fvalue : 0.625000  Attention Attention Attention
+connected nodes:  14
+assignments is  [3 3 3 3 1 2 3 4 0 3 3 3 5 0]
+{4, 5, 6, 7, 8, 9, 12, 13}
+{'K': 6, 'alpha': 0.71}  realAbnormal  8 thoughtAbnormal 8 tr_abnormal 5 so accuracy: 0.625000  and  recall : 0.625000 and fpr: 0.500000 and fvalue : 0.625000  Attention Attention Attention
+connected nodes:  14
+assignments is  [3 3 3 3 1 2 3 4 0 3 3 3 5 0]
+{4, 5, 6, 7, 8, 9, 12, 13}
+{'K': 6, 'alpha': 0.72}  realAbnormal  8 thoughtAbnormal 8 tr_abnormal 5 so accuracy: 0.625000  and  recall : 0.625000 and fpr: 0.500000 and fvalue : 0.625000  Attention Attention Attention
+connected nodes:  14
+assignments is  [3 3 3 3 1 2 3 4 0 3 3 3 5 0]
+{4, 5, 6, 7, 8, 9, 12, 13}
+{'K': 6, 'alpha': 0.73}  realAbnormal  8 thoughtAbnormal 8 tr_abnormal 5 so accuracy: 0.625000  and  recall : 0.625000 and fpr: 0.500000 and fvalue : 0.625000  Attention Attention Attention
+connected nodes:  14
+assignments is  [3 3 3 3 1 2 3 4 0 3 3 3 5 0]
+{4, 5, 6, 7, 8, 9, 12, 13}
+{'K': 6, 'alpha': 0.74}  realAbnormal  8 thoughtAbnormal 8 tr_abnormal 5 so accuracy: 0.625000  and  recall : 0.625000 and fpr: 0.500000 and fvalue : 0.625000  Attention Attention Attention
+connected nodes:  14
+assignments is  [3 3 3 3 1 2 3 4 0 3 3 3 5 0]
+{4, 5, 6, 7, 8, 9, 12, 13}
+{'K': 6, 'alpha': 0.75}  realAbnormal  8 thoughtAbnormal 8 tr_abnormal 5 so accuracy: 0.625000  and  recall : 0.625000 and fpr: 0.500000 and fvalue : 0.625000  Attention Attention Attention
+connected nodes:  14
+assignments is  [3 3 3 3 1 2 3 4 0 3 3 3 5 0]
+{4, 5, 6, 7, 8, 9, 12, 13}
+{'K': 6, 'alpha': 0.76}  realAbnormal  8 thoughtAbnormal 8 tr_abnormal 5 so accuracy: 0.625000  and  recall : 0.625000 and fpr: 0.500000 and fvalue : 0.625000  Attention Attention Attention
+connected nodes:  14
+assignments is  [3 3 3 3 1 2 3 4 0 3 3 3 5 0]
+{4, 5, 6, 7, 8, 9, 12, 13}
+{'K': 6, 'alpha': 0.77}  realAbnormal  8 thoughtAbnormal 8 tr_abnormal 5 so accuracy: 0.625000  and  recall : 0.625000 and fpr: 0.500000 and fvalue : 0.625000  Attention Attention Attention
+connected nodes:  14
+assignments is  [3 3 3 3 1 2 3 4 0 3 3 3 5 0]
+{4, 5, 6, 7, 8, 9, 12, 13}
+{'K': 6, 'alpha': 0.78}  realAbnormal  8 thoughtAbnormal 8 tr_abnormal 5 so accuracy: 0.625000  and  recall : 0.625000 and fpr: 0.500000 and fvalue : 0.625000  Attention Attention Attention
+connected nodes:  14
+assignments is  [3 3 3 3 1 2 3 4 0 3 3 3 5 0]
+{4, 5, 6, 7, 8, 9, 12, 13}
+{'K': 6, 'alpha': 0.79}  realAbnormal  8 thoughtAbnormal 8 tr_abnormal 5 so accuracy: 0.625000  and  recall : 0.625000 and fpr: 0.500000 and fvalue : 0.625000  Attention Attention Attention
+connected nodes:  14
+assignments is  [3 3 3 3 1 2 3 4 0 3 3 3 5 0]
+{4, 5, 6, 7, 8, 9, 12, 13}
+{'K': 6, 'alpha': 0.8}  realAbnormal  8 thoughtAbnormal 8 tr_abnormal 5 so accuracy: 0.625000  and  recall : 0.625000 and fpr: 0.500000 and fvalue : 0.625000  Attention Attention Attention
+connected nodes:  14
+assignments is  [3 3 3 3 1 2 3 4 0 3 3 3 5 0]
+{4, 5, 6, 7, 8, 9, 12, 13}
+{'K': 6, 'alpha': 0.81}  realAbnormal  8 thoughtAbnormal 8 tr_abnormal 5 so accuracy: 0.625000  and  recall : 0.625000 and fpr: 0.500000 and fvalue : 0.625000  Attention Attention Attention
+connected nodes:  14
+assignments is  [3 3 3 3 1 2 3 4 0 3 3 3 5 0]
+{4, 5, 6, 7, 8, 9, 12, 13}
+{'K': 6, 'alpha': 0.82}  realAbnormal  8 thoughtAbnormal 8 tr_abnormal 5 so accuracy: 0.625000  and  recall : 0.625000 and fpr: 0.500000 and fvalue : 0.625000  Attention Attention Attention
+connected nodes:  14
+assignments is  [3 3 3 3 1 2 3 4 0 3 3 3 5 0]
+{4, 5, 6, 7, 8, 9, 12, 13}
+{'K': 6, 'alpha': 0.83}  realAbnormal  8 thoughtAbnormal 8 tr_abnormal 5 so accuracy: 0.625000  and  recall : 0.625000 and fpr: 0.500000 and fvalue : 0.625000  Attention Attention Attention
+connected nodes:  14
+assignments is  [3 3 3 3 1 2 3 4 0 3 3 3 5 0]
+{4, 5, 6, 7, 8, 9, 12, 13}
+{'K': 6, 'alpha': 0.84}  realAbnormal  8 thoughtAbnormal 8 tr_abnormal 5 so accuracy: 0.625000  and  recall : 0.625000 and fpr: 0.500000 and fvalue : 0.625000  Attention Attention Attention
+connected nodes:  14
+assignments is  [3 3 3 3 1 2 3 4 0 3 3 3 5 0]
+{4, 5, 6, 7, 8, 9, 12, 13}
+{'K': 6, 'alpha': 0.85}  realAbnormal  8 thoughtAbnormal 8 tr_abnormal 5 so accuracy: 0.625000  and  recall : 0.625000 and fpr: 0.500000 and fvalue : 0.625000  Attention Attention Attention
+connected nodes:  14
+assignments is  [3 3 3 3 1 2 3 4 0 3 3 3 5 0]
+{4, 5, 6, 7, 8, 9, 12, 13}
+{'K': 6, 'alpha': 0.86}  realAbnormal  8 thoughtAbnormal 8 tr_abnormal 5 so accuracy: 0.625000  and  recall : 0.625000 and fpr: 0.500000 and fvalue : 0.625000  Attention Attention Attention
+connected nodes:  14
+assignments is  [3 3 3 3 1 2 3 4 0 3 3 3 5 0]
+{4, 5, 6, 7, 8, 9, 12, 13}
+{'K': 6, 'alpha': 0.87}  realAbnormal  8 thoughtAbnormal 8 tr_abnormal 5 so accuracy: 0.625000  and  recall : 0.625000 and fpr: 0.500000 and fvalue : 0.625000  Attention Attention Attention
+connected nodes:  14
+assignments is  [1 0 0 0 1 0 0 0 1 0 0 0 0 0]
+{1, 4, 5, 8, 9}
+{'K': 2, 'alpha': 0.88}  realAbnormal  8 thoughtAbnormal 5 tr_abnormal 3 so accuracy: 0.600000  and  recall : 0.375000 and fpr: 0.333333 and fvalue : 0.461538  None
+connected nodes:  14
+assignments is  [1 0 0 0 1 0 0 0 1 0 0 0 0 0]
+{1, 4, 5, 8, 9}
+{'K': 2, 'alpha': 0.89}  realAbnormal  8 thoughtAbnormal 5 tr_abnormal 3 so accuracy: 0.600000  and  recall : 0.375000 and fpr: 0.333333 and fvalue : 0.461538  None
+connected nodes:  14
+assignments is  [3 3 3 3 1 2 3 4 0 3 3 3 5 0]
+{4, 5, 6, 7, 8, 9, 12, 13}
+{'K': 6, 'alpha': 0.9}  realAbnormal  8 thoughtAbnormal 8 tr_abnormal 5 so accuracy: 0.625000  and  recall : 0.625000 and fpr: 0.500000 and fvalue : 0.625000  Attention Attention Attention
+connected nodes:  14
+assignments is  [3 3 3 3 1 2 3 4 0 3 3 3 5 0]
+{4, 5, 6, 7, 8, 9, 12, 13}
+{'K': 6, 'alpha': 0.91}  realAbnormal  8 thoughtAbnormal 8 tr_abnormal 5 so accuracy: 0.625000  and  recall : 0.625000 and fpr: 0.500000 and fvalue : 0.625000  Attention Attention Attention
+connected nodes:  14
+assignments is  [3 3 3 3 1 2 3 4 0 3 3 3 5 0]
+{4, 5, 6, 7, 8, 9, 12, 13}
+{'K': 6, 'alpha': 0.92}  realAbnormal  8 thoughtAbnormal 8 tr_abnormal 5 so accuracy: 0.625000  and  recall : 0.625000 and fpr: 0.500000 and fvalue : 0.625000  Attention Attention Attention
+connected nodes:  14
+assignments is  [3 3 3 3 1 2 3 4 0 3 3 3 5 0]
+{4, 5, 6, 7, 8, 9, 12, 13}
+{'K': 6, 'alpha': 0.93}  realAbnormal  8 thoughtAbnormal 8 tr_abnormal 5 so accuracy: 0.625000  and  recall : 0.625000 and fpr: 0.500000 and fvalue : 0.625000  Attention Attention Attention
+connected nodes:  14
+assignments is  [3 3 3 3 1 2 3 4 0 3 3 3 5 0]
+{4, 5, 6, 7, 8, 9, 12, 13}
+{'K': 6, 'alpha': 0.94}  realAbnormal  8 thoughtAbnormal 8 tr_abnormal 5 so accuracy: 0.625000  and  recall : 0.625000 and fpr: 0.500000 and fvalue : 0.625000  Attention Attention Attention
+connected nodes:  14
+assignments is  [3 3 3 3 1 2 3 4 0 3 3 3 5 0]
+{4, 5, 6, 7, 8, 9, 12, 13}
+{'K': 6, 'alpha': 0.95}  realAbnormal  8 thoughtAbnormal 8 tr_abnormal 5 so accuracy: 0.625000  and  recall : 0.625000 and fpr: 0.500000 and fvalue : 0.625000  Attention Attention Attention
+connected nodes:  14
+assignments is  [3 3 3 3 1 2 3 4 0 3 3 3 5 0]
+{4, 5, 6, 7, 8, 9, 12, 13}
+{'K': 6, 'alpha': 0.96}  realAbnormal  8 thoughtAbnormal 8 tr_abnormal 5 so accuracy: 0.625000  and  recall : 0.625000 and fpr: 0.500000 and fvalue : 0.625000  Attention Attention Attention
+connected nodes:  14
+assignments is  [3 3 3 3 1 2 3 4 0 3 3 3 5 0]
+{4, 5, 6, 7, 8, 9, 12, 13}
+{'K': 6, 'alpha': 0.97}  realAbnormal  8 thoughtAbnormal 8 tr_abnormal 5 so accuracy: 0.625000  and  recall : 0.625000 and fpr: 0.500000 and fvalue : 0.625000  Attention Attention Attention
+connected nodes:  14
+assignments is  [3 3 3 3 1 2 3 4 0 3 3 3 5 0]
+{4, 5, 6, 7, 8, 9, 12, 13}
+{'K': 6, 'alpha': 0.98}  realAbnormal  8 thoughtAbnormal 8 tr_abnormal 5 so accuracy: 0.625000  and  recall : 0.625000 and fpr: 0.500000 and fvalue : 0.625000  Attention Attention Attention
+connected nodes:  14
+assignments is  [3 3 3 3 1 2 3 4 0 3 3 3 5 0]
+{4, 5, 6, 7, 8, 9, 12, 13}
+{'K': 6, 'alpha': 0.99}  realAbnormal  8 thoughtAbnormal 8 tr_abnormal 5 so accuracy: 0.625000  and  recall : 0.625000 and fpr: 0.500000 and fvalue : 0.625000  Attention Attention Attention
+connected nodes:  14
+assignments is  [3 3 3 3 1 2 3 4 0 3 3 3 5 0]
+{4, 5, 6, 7, 8, 9, 12, 13}
+{'K': 6, 'alpha': 1.0}  realAbnormal  8 thoughtAbnormal 8 tr_abnormal 5 so accuracy: 0.625000  and  recall : 0.625000 and fpr: 0.500000 and fvalue : 0.625000  Attention Attention Attention
+the best fvalue is 0.625000, the k is 6 and the alpha is 0.010000
