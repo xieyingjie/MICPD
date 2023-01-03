@@ -8,8 +8,10 @@ In this study, we propose the multi-view feature interpretable change points det
 According to the evolutionary nature of dynamic networks, we define a categorization of different types of changes which can occur in dynamic networks.
 We compare the performance of our method with state-of-the-art methods on four synthetic datasets and the world trade dataset. Experimental results show that our method achieves well in most cases.
 
+**The baselines folder contains baselines for all comparisons of the experiment.**
+
 **Run the code**
-The baselines folder contains baselines for all comparisons of the experiment.
+
 
 Please set the root directory of the project as your Python path.
 
