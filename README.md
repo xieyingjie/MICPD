@@ -15,12 +15,12 @@ We compare the performance of our method with state-of-the-art methods on four s
 
 Please set the root directory of the project as your Python path.
 
-For Synthetic dataset
+***For Synthetic dataset***
 
 ```bash
 python Synthetic/SBM_generator.py
 
-community Tracker
+***community Tracker***
 ```bash
 python communityTracker/Tracker.py  <inputfile.json>
 
