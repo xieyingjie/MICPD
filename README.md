@@ -20,7 +20,7 @@ Please set the root directory of the project as your Python path.
 ```bash
 python Synthetic/SBM_generator.py
 
-***community Tracker***
+community Tracker
 ```bash
 python communityTracker/Tracker.py  <inputfile.json>
 
