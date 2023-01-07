@@ -586,14 +586,6 @@ def Change_Based_communityAndNode(inter_prob, intra_prob, alpha, incrementintra,
             G_times.append(G_t)
 
     to_edgelist(G_times, fname)
-    ii = 1
-    for G in G_times:
-        aj = np.array(nx.adjacency_matrix(G).todense())
-        aj1 = np.array(nx.adjacency_matrix(G_times[ii]).todense())
-        r = cosine_similarity(aj, aj1)
-        s = np.sum(r)
-        print(s)
-        ii = ii+1
 
 def main():
 
