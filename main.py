@@ -8,7 +8,7 @@ import argparse
 
 
 
-parser = argparse.ArgumentParser(description='interface of running experiments for TSCP2 baselines')
+parser = argparse.ArgumentParser()
 parser.add_argument('--datapath', type=str, required=True, help='[ ./data ] prefix path to data directory')
 window_size=3
 DATA_PATH = args.datapath
